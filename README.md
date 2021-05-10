@@ -24,6 +24,11 @@ Features developed by me
   6. Helped in implementing State pattern for simulating season
 
 *************************************************************
+ Patterns used:
+  State Pattern
+  Abstract Factory Pattern 
+  Builder Design Pattern
+************************************************************
 Files written by me (Corresponding Test and factories also included):
 Aging package
 LOM files
