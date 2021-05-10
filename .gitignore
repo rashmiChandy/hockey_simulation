@@ -1,3 +1,16 @@
+### idea ###
+.idea
+.gradle
+build/*
+caches/
+daemon/
+native/
+out/
+wrapper/
+/DhlDhl--RetiredPlayersInLeague.json
+.json
+.log
+
 # Compiled class file
 *.class
 
