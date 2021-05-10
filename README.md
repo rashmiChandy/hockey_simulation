@@ -1,4 +1,4 @@
-Console based application that simulates a hockey league. 
+Console based application that simulates a hockey league following SOLID principles, Clean Code, Design Patterns, TDD. 
 ***********************************************************
 Overall Features
   1. Importing a JSON
