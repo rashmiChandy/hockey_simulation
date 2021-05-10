@@ -1,12 +1,14 @@
 Console based application that simulates a hockey league. 
 ***********************************************************
-Overall Features:
-  1.Importing a JSON
-  2.Create Team 
-  3.Load Team
-  4.Player Choice
-  5.Simulate Season.
-  6.For each season:
+Overall Features
+  1. Importing a JSON
+  2. Create Team 
+  3. Load Team
+  4. Player Choice 
+  5. Player Draft
+  6. Simulate Season
+  7. For each season
+
     - Advance Time everyday and conduct matches based on League Schedule
     - Training
     - Simulate Game between two teams and Injury Check 
